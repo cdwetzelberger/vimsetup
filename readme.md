@@ -1,8 +1,10 @@
 # ctrlp.vim
-Fuzzy __file__, __buffer__, __mru__, __tag__, ... finder for Vim.
+My vim setup.
+ 
+Run:
+git clone git://github.com/cdwetzelberger/vimsetup ~/.vim
 
-* [**Project's homepage**][1]
-* [**Main git repository**][2]
+Create a .vimrc in your home directory with the line:
+source $HOME/.vim/vimrc
 
-[1]: http://kien.github.com/ctrlp.vim
-[2]: https://github.com/kien/ctrlp.vim
+
