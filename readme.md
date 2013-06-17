@@ -1,5 +1,4 @@
-# ctrlp.vim
-My vim setup.
+# My vim setup.
  
 Run:
 git clone git://github.com/cdwetzelberger/vimsetup ~/.vim
